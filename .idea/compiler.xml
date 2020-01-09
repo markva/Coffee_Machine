@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="Coffee_Machine-task_main" target="11" />
+      <module name="Coffee_Machine-task_test" target="11" />
+      <module name="Problems-Account_and_its_owner_main" target="11" />
+      <module name="Problems-Account_and_its_owner_test" target="11" />
+      <module name="Problems-Account_main" target="11" />
+      <module name="Problems-Account_test" target="11" />
+      <module name="Problems-Books_main" target="11" />
+      <module name="Problems-Books_test" target="11" />
+      <module name="Problems-Complex_numbers_main" target="11" />
+      <module name="Problems-Complex_numbers_test" target="11" />
+      <module name="Problems-Inner_boxes_main" target="11" />
+      <module name="Problems-Inner_boxes_test" target="11" />
+      <module name="Problems-User_main" target="11" />
+      <module name="Problems-User_test" target="11" />
+      <module name="Problems__10_-Car_main" target="11" />
+      <module name="Problems__10_-Car_test" target="11" />
+      <module name="Problems__11_-Currencies_main" target="11" />
+      <module name="Problems__11_-Currencies_test" target="11" />
+      <module name="Problems__12_-Danger_levels_main" target="11" />
+      <module name="Problems__12_-Danger_levels_test" target="11" />
+      <module name="Problems__13_-Balance_management_main" target="11" />
+      <module name="Problems__13_-Balance_management_test" target="11" />
+      <module name="Problems__14_-The_secret_enumeration_main" target="11" />
+      <module name="Problems__14_-The_secret_enumeration_test" target="11" />
+      <module name="Problems__15_-Days_of_week_main" target="11" />
+      <module name="Problems__15_-Days_of_week_test" target="11" />
+      <module name="Problems__16_-Days_of_week_main" target="11" />
+      <module name="Problems__16_-Days_of_week_test" target="11" />
+      <module name="Problems__1_-Complex_numbers_main" target="11" />
+      <module name="Problems__1_-Complex_numbers_test" target="11" />
+      <module name="Problems__2_-In_a_box_main" target="11" />
+      <module name="Problems__2_-In_a_box_test" target="11" />
+      <module name="Problems__3_-Application_as_a_class_main" target="11" />
+      <module name="Problems__3_-Application_as_a_class_test" target="11" />
+      <module name="Problems__3_-Patient_needs_a_doctor_main" target="11" />
+      <module name="Problems__3_-Patient_needs_a_doctor_test" target="11" />
+      <module name="Problems__4_-Patient_needs_a_doctor_main" target="11" />
+      <module name="Problems__4_-Patient_needs_a_doctor_test" target="11" />
+      <module name="Problems__5_-Application_as_a_class_main" target="11" />
+      <module name="Problems__5_-Application_as_a_class_test" target="11" />
+      <module name="Problems__6_-Counter_main" target="11" />
+      <module name="Problems__6_-Counter_test" target="11" />
+      <module name="Problems__7_-Circle_main" target="11" />
+      <module name="Problems__7_-Circle_test" target="11" />
+      <module name="Problems__8_-Complex_numbers_main" target="11" />
+      <module name="Problems__8_-Complex_numbers_test" target="11" />
+      <module name="Problems__9_-Simulating_a_clock_main" target="11" />
+      <module name="Problems__9_-Simulating_a_clock_test" target="11" />
+      <module name="util_main" target="11" />
+      <module name="util_test" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
